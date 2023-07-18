@@ -1,0 +1,15 @@
+{
+  "name": "bkhouy/recaptcha",
+  "description": "Protect your website from spam and abuse while letting real people pass through with ease.",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/recaptcha",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/recaptcha",
+    "source": "https://git.drupal.org/project/recaptcha.git"
+  },
+  "license": "GPL-2.0+",
+  "require": {
+    "bkhouy/captcha": "^2",
+    "google/recaptcha": "^1.2"
+  }
+}
